@@ -1,0 +1,36 @@
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\ResolveAssemblyReference.cache
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.csproj.ResolveComReference.cache
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.TestForm.resources
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.Properties.Resources.resources
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.TypeUnderTest.resources
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.csproj.GenerateResource.Cache
+E:\đề tài 5\AutomatedTest\AutomatedTest\bin\Debug\AutomatedTest.exe
+E:\đề tài 5\AutomatedTest\AutomatedTest\bin\Debug\AutomatedTest.pdb
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.exe
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.pdb
+E:\đề tài 5\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.StubForm.resources
+D:\thao\de tai\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.exe
+D:\thao\de tai\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.pdb
+D:\thao\de tai\AutomatedTest\AutomatedTest\obj\Debug\ResolveAssemblyReference.cache
+D:\thao\de tai\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.StubForm.resources
+D:\thao\de tai\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.TestForm.resources
+D:\thao\de tai\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.Properties.Resources.resources
+D:\thao\de tai\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.TypeUnderTest.resources
+D:\thao\de tai\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.csproj.GenerateResource.Cache
+D:\thao\de tai\AutomatedTest\AutomatedTest\bin\Debug\AutomatedTest.exe
+D:\thao\de tai\AutomatedTest\AutomatedTest\bin\Debug\AutomatedTest.pdb
+D:\thao\de tai\AutomatedTest\AutomatedTest\bin\Debug\office.dll
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.exe
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.pdb
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\bin\Debug\AutomatedTest.exe
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\bin\Debug\AutomatedTest.pdb
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\bin\Debug\office.dll
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\bin\Debug\stdole.dll
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.csprojAssemblyReference.cache
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.StubForm.resources
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.TestForm.resources
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.Properties.Resources.resources
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.TypeUnderTest.resources
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.csproj.GenerateResource.cache
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.csproj.CoreCompileInputs.cache
+C:\Users\hieul\Downloads\150 Do An C Sharp_[Huynhmaiit.net]\150 Do An C Sharp_[Huynhmaiit.net]\Do An C#\Xây dựng ứng dụng kiểm thử phần mềm tự động C#\AutomatedTest\AutomatedTest\AutomatedTest\obj\Debug\AutomatedTest.csproj.CopyComplete

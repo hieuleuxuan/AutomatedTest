@@ -1,0 +1,5 @@
+D:\thao\de tai\AutomatedTest\AutomatedTest\bin\Debug\obj\Debug\Interop.Excel.dll
+D:\thao\de tai\AutomatedTest\AutomatedTest\bin\Debug\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\thao\de tai\AutomatedTest\AutomatedTest\bin\Debug\obj\Debug\Interop.VBIDE.dll
+D:\thao\de tai\AutomatedTest\AutomatedTest\bin\Debug\obj\Debug\OATestProj.csproj.ResolveComReference.cache
+D:\thao\de tai\AutomatedTest\AutomatedTest\bin\Debug\obj\Debug\ResolveAssemblyReference.cache
